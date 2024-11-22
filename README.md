@@ -1,1 +1,1 @@
-# SmartClassPlanningTool
+# Planning Tool
